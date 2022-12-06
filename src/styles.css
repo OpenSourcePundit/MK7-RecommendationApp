@@ -1,0 +1,9 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  width: 50rem;
+  margin: auto;
+}
+* {
+  background-color: greenyellow;
+}
